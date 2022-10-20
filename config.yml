@@ -1,0 +1,11 @@
+# This is the configuration file that you will use to edit file name and parameters.
+
+samples:
+  - cond1_rep1
+  - cond1_rep2
+  - cond1_rep3
+  - cond2_rep1
+  - cond2_rep2
+  - cond2_rep3
+  
+genome: "resources/ram1"
